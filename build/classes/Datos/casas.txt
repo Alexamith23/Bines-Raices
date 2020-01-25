@@ -1,0 +1,5 @@
+c2,4,2,120000,0,Puntarenas,Esparza,Cruz,Ahí,true,true,false,false,false,true,false
+c3,5,3,160000,100000,Alajuela,Fortuna,Z13,Frente al super Cristian,false,false,false,true,true,true,true
+c4,7,4,155000,120000,Guanacaste,Cañas,Las Palmas,Frente la soda Gallina,false,false,false,true,true,true,true
+c5,1,1,150000,100000,Alajuela,Fortuna,Z14,Frente al super Cristian,false,false,false,true,true,true,true
+c6,3,2,90000,50000,Alajuela,Ciudad Quesada,Gamonales,Por el RoyPe,true,false,false,true,true,true,false
